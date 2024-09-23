@@ -19,8 +19,6 @@ If you are new to Spring, try one of the https://spring.io/guides[guides].
 * Ask a question -- we monitor https://stackoverflow.com[stackoverflow.com] for questions tagged with https://stackoverflow.com/tags/spring-pulsar[`spring-pulsar`].
 * Report bugs with Spring for Apache Pulsar at {github}/issues[github.com/spring-projects/spring-pulsar/issues].
 
-
-
 == Reporting Issues
 Spring for Apache Pulsar uses GitHub's integrated issue tracking system to record bugs and feature requests.
 If you want to raise an issue, please follow the recommendations below:
